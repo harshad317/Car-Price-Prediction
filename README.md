@@ -38,7 +38,6 @@ Optimizing RMSLE to generalize well on unseen data
     
 # Evaluation
 
-What is the Metric In this competition? How is the Leaderboard Calculated ?
 The submission will be evaluated using the RMSLE metric. One can use np.sqrt(mean_squared_log_error(actual, predicted)) to calculate the same
 This hackathon supports private and public leaderboards
 The public leaderboard is evaluated on 70% of Test data
